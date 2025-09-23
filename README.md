@@ -34,11 +34,9 @@ To provide a clear visual analysis of Netflix’s movies and TV shows, highlight
 
 - Netflix has aggressively expanded its content library since 2015, peaking in 2018.
 - The United States is the largest contributor, followed by India and the UK.
+- Movies outnumber TV shows in the dataset, but TV shows still form a significant portion.
+- Country-wise insights can help identify content diversity and localisation strategies.
 
-**Screenshot of the Dashboard**
+** Screenshot of Dashboard **
 
-
-
-Movies outnumber TV shows in the dataset, but TV shows still form a significant portion.
-
-Country-wise insights can help identify content diversity and localisation strategies.
+https://github.com/jayantibanik/Netflix_Movie_Analysis/blob/main/Snapshot_of_Netflix_Dashboard.png
