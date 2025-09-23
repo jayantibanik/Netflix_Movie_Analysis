@@ -37,6 +37,6 @@ To provide a clear visual analysis of Netflix’s movies and TV shows, highlight
 - Movies outnumber TV shows in the dataset, but TV shows still form a significant portion.
 - Country-wise insights can help identify content diversity and localisation strategies.
 
-** Screenshot of Dashboard **
+**Screenshot of Dashboard**
 
 https://github.com/jayantibanik/Netflix_Movie_Analysis/blob/main/Snapshot_of_Netflix_Dashboard.png
